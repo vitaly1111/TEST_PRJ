@@ -1,0 +1,42 @@
+@import "_header";
+body {
+    font-size: 30px;
+    div {
+        font-size: 10px;
+    }
+    a {
+        text-decoration: none;
+    }
+}
+
+.block {}
+
+.bloc {
+    &__d {}
+    &__u {}
+    &__i {}
+}
+
+.block {}
+
+.bloc {
+    &__d {}
+    &__u {}
+    &__i {}
+}
+
+.block {}
+
+.bloc {
+    &__d {}
+    &__u {}
+    &__i {}
+}
+
+.block .bloc__d .bloc__u .bloc__i .block {}
+
+.bloc__d {}
+
+.bloc__u {}
+
+.bloc__i {}
